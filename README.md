@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-git23/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/prince-git23/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -34,10 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/prince-git23/problem-solving/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
