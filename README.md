@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/prince-git23/problem-solving/tree/master/0125-valid-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -70,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prince-git23/problem-solving/tree/master/0075-sort-colors) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prince-git23/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/prince-git23/problem-solving/tree/master/0724-find-pivot-index) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
