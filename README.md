@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prince-git23/problem-solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prince-git23/problem-solving/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-git23/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-git23/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prince-git23/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/prince-git23/problem-solving/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-git23/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
