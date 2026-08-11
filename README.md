@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/prince-git23/problem-solving/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
