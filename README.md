@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-git23/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/prince-git23/problem-solving/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prince-git23/problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
+| [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
