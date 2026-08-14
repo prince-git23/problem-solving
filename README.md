@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-git23/problem-solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince-git23/problem-solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prince-git23/problem-solving/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/prince-git23/problem-solving/tree/master/0074-search-a-2d-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/prince-git23/problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince-git23/problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prince-git23/problem-solving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
