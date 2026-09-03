@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prince-git23/problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prince-git23/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prince-git23/problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prince-git23/problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prince-git23/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
