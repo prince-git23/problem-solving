@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince-git23/problem-solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prince-git23/problem-solving/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/prince-git23/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prince-git23/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prince-git23/problem-solving/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-git23/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/prince-git23/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prince-git23/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prince-git23/problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prince-git23/problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Heap (Priority Queue)
