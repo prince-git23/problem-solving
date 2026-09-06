@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prince-git23/problem-solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prince-git23/problem-solving/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/prince-git23/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-git23/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/prince-git23/problem-solving/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/prince-git23/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prince-git23/problem-solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prince-git23/problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prince-git23/problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/prince-git23/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
