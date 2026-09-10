@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/prince-git23/problem-solving/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
+| [1991-find-the-middle-index-in-array](https://github.com/prince-git23/problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prince-git23/problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-git23/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prince-git23/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prince-git23/problem-solving/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/prince-git23/problem-solving/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting Sort
 |  |
 | ------- |
