@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/prince-git23/problem-solving/tree/master/1991-find-the-middle-index-in-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/prince-git23/problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prince-git23/problem-solving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prince-git23/problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince-git23/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/prince-git23/problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/prince-git23/problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quicksort
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prince-git23/problem-solving/tree/master/0152-maximum-product-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/prince-git23/problem-solving/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
