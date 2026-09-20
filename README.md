@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prince-git23/problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince-git23/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prince-git23/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-git23/problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/prince-git23/problem-solving/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prince-git23/problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prince-git23/problem-solving/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/prince-git23/problem-solving/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prince-git23/problem-solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prince-git23/problem-solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-git23/problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prince-git23/problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
