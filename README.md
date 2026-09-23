@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/prince-git23/problem-solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prince-git23/problem-solving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prince-git23/problem-solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prince-git23/problem-solving/tree/master/0057-insert-interval) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prince-git23/problem-solving/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prince-git23/problem-solving/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prince-git23/problem-solving/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince-git23/problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
