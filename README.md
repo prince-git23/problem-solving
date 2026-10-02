@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prince-git23/problem-solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/prince-git23/problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/prince-git23/problem-solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prince-git23/problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prince-git23/problem-solving/tree/master/0053-maximum-subarray) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/prince-git23/problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/prince-git23/problem-solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/prince-git23/problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prince-git23/problem-solving/tree/master/0078-subsets) |
