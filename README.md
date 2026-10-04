@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prince-git23/problem-solving/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince-git23/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-git23/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prince-git23/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/prince-git23/problem-solving/tree/master/1288-remove-covered-intervals) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prince-git23/problem-solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prince-git23/problem-solving/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/prince-git23/problem-solving/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prince-git23/problem-solving/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/prince-git23/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/prince-git23/problem-solving/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prince-git23/problem-solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince-git23/problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
