@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prince-git23/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prince-git23/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince-git23/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/prince-git23/problem-solving/tree/master/0876-middle-of-the-linked-list) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/prince-git23/problem-solving/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/prince-git23/problem-solving/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prince-git23/problem-solving/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prince-git23/problem-solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
