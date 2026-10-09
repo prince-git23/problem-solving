@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prince-git23/problem-solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/prince-git23/problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/prince-git23/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prince-git23/problem-solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prince-git23/problem-solving/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prince-git23/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/prince-git23/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-git23/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prince-git23/problem-solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
