@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prince-git23/problem-solving/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prince-git23/problem-solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
