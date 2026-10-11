@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prince-git23/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-git23/problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/prince-git23/problem-solving/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prince-git23/problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince-git23/problem-solving/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/prince-git23/problem-solving/tree/master/0071-simplify-path) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-git23/problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
