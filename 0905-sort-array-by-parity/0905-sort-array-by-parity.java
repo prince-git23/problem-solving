@@ -4,8 +4,8 @@ class Solution {
         int j=1;
         int temp=0;
         while(j<nums.length){
-            if(nums[i]%2!=0){
-                if(nums[j]%2==0){
+            if((nums[i] & 0x1)!=0){
+                if((nums[j] & 0x1)==0){
                     temp=nums[i];
                     nums[i]=nums[j];
                     nums[j]=temp;
