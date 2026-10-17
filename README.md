@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prince-git23/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prince-git23/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-git23/problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/prince-git23/problem-solving/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prince-git23/problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prince-git23/problem-solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prince-git23/problem-solving/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prince-git23/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/prince-git23/problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prince-git23/problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prince-git23/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prince-git23/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prince-git23/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prince-git23/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/prince-git23/problem-solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/prince-git23/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
