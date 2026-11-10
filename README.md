@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince-git23/problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/prince-git23/problem-solving/tree/master/1816-truncate-sentence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/prince-git23/problem-solving/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2129-capitalize-the-title](https://github.com/prince-git23/problem-solving/tree/master/2129-capitalize-the-title) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prince-git23/problem-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince-git23/problem-solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
